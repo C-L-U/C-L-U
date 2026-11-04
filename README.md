@@ -1,99 +1,252 @@
-# Hi, I'm Jose Luis Arellano Lopez 👋
 
-### Back-End Developer — Distributed Systems · Blockchain · Multi-Agent AI
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-clu.run-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://clu.run)
-[![Twitter](https://img.shields.io/badge/Twitter-@luiloalopez-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/luiloalopez)
+# Hi, I'm Jose Luis Arellano López 👋
 
-📍 Puerto Vallarta, Jalisco, Mexico
+### AI Engineer · Multi-Agent Systems · LLM Orchestration · Voice AI
 
-*I build distributed systems, scalable APIs, and multi-agent AI — deep in the blockchain ecosystem with hands-on Solana development.*
+**Building intelligent systems that go beyond a single model call.**
 
----
+I design and develop AI-powered applications, from multi-agent reasoning engines and voice-first assistants to the backend infrastructure that makes them work.
 
-## 🧑‍💻 About Me
+📍 Puerto Vallarta, Mexico · 🌎 Open to remote opportunities worldwide
 
-I'm a back-end developer with a strong interest in how systems talk to each other — from WebSocket-powered real-time apps to global P2P networks, consensus-driven AI agents, and on-chain programs.
+[![Portfolio](https://img.shields.io/badge/Portfolio-clu.run-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://clu.run)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-arellano-295350313)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luilolopez@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-C--L--U-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/C-L-U)
 
-- 🔭 **Currently building:** [OpenThink](https://github.com/C-L-U/OpenThink) — a multi-agent consensus engine where AI models debate and converge on one unified answer
-- 🦀 **Production stack:** Python (FastAPI) · Rust · TypeScript (React)
-- ⛓️ **Blockchain:** Active in the Solana ecosystem — collaborated on the development of Solana programs and dApps
-- 🧠 **AI tooling:** LangChain, vector databases, and LLM orchestration in production
-- 🤝 **Open to:** Back-end / full-stack roles, Web3 teams, and interesting collaborations
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 🧠 [OpenThink](https://github.com/C-L-U/OpenThink) — Multi-Agent Consensus Engine
+I'm an **AI-focused Software Engineer** specializing in the design and development of intelligent applications, multi-agent architectures, and voice-driven interfaces.
 
-An open-source platform that stops the tab-hopping between AI tools. Ask once, watch multiple AI agents debate in real time, and get one unified answer.
-`TypeScript` · LLM orchestration · Consensus logic
+My work sits at the intersection of **Artificial Intelligence and Software Engineering**: connecting language models, designing orchestration workflows, building APIs, and developing the infrastructure required to turn AI capabilities into usable products.
 
-### 🛐 [Algorithmic Sect](https://github.com/C-L-U/Algorithmic-Sect) — LLM Society Simulation
+Rather than treating an LLM as an isolated chatbot, I'm interested in how models can **collaborate, reason across multiple steps, interact with software, and operate within larger systems**.
 
-A digital terrarium where 5 AI entities live in a perpetual religious simulation. You are The Architect — they believe in you.
-`Python` · Multi-agent systems · LLMs
+My background in backend engineering allows me to approach AI development from both sides: the intelligence layer and the systems supporting it.
 
-### 💬 [Hefesto Messenger](https://github.com/C-L-U/hefesto-messenger)
+**Current areas of focus:**
 
-Real-time messenger app demonstrating full-duplex WebSocket communication between a React + TypeScript client and a FastAPI back end.
-`TypeScript` · `WebSockets` · `FastAPI`
-
-### 🕹️ [Tron Game](https://github.com/C-L-U/tron-game)
-
-A modern take on the classic light-cycle game, built as an interactive browser experience.
-`TypeScript`
+- **Multi-Agent AI:** Agent coordination, model collaboration, debate-based reasoning, and consensus workflows.
+- **LLM Engineering:** Model integration, orchestration, prompt design, and response synthesis.
+- **Voice AI:** Speech recognition, conversational interfaces, and voice-driven developer tools.
+- **AI Infrastructure:** Backend services, asynchronous communication, streaming, and application architecture.
+- **Developer Tooling:** AI-powered workflows and interfaces that connect intelligent models with software development tools.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured AI Projects
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 🧠 [OpenThink — Multi-Agent Consensus Engine](https://github.com/C-L-U/OpenThink)
 
-**Back-End**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+**Multi-model reasoning through coordinated AI agents.**
 
-**AI / LLM Engineering**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Chroma](https://img.shields.io/badge/ChromaDB-FF4F64?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-1A1A1A?style=flat-square)
+OpenThink is an open-source multi-agent platform designed to explore a fundamental question:
 
-**Blockchain**
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Anchor-Rust_Programs-000000?style=flat-square&logo=rust&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-dApps-62688F?style=flat-square&logo=web3dotjs&logoColor=white)
+*What happens when multiple AI models collaborate instead of answering independently?*
 
-**Front-End & Tools**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+The system queries multiple language models, coordinates structured debate rounds, and synthesizes their contributions into a unified response.
+
+A real-time interface allows users to follow the discussion as it unfolds.
+
+**Core capabilities**
+- Integration of multiple AI models.
+- Coordinated multi-agent debate workflows.
+- Multi-round reasoning and response synthesis.
+- Real-time streaming of agent interactions.
+- Unified answers generated from multiple model contributions.
+
+**Engineering areas:** Multi-Agent Systems · LLM Orchestration · Consensus Workflows · Streaming AI
+
+**Stack:** `Python` `TypeScript` `SSE` `LLMs`
+
+[Explore OpenThink →](https://github.com/C-L-U/OpenThink)
 
 ---
 
-## 📊 GitHub Stats
+### 🎙️ [Friday — Voice-First AI Desktop Assistant](https://github.com/C-L-U/Friday)
 
-![C-L-U's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=C-L-U&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-L-U&layout=compact&theme=tokyonight&hide_border=true)
+**A desktop interface for interacting with AI through natural voice commands.**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=C-L-U&theme=tokyonight&hide_border=true)
+Friday is a voice-first desktop assistant developed with Rust and Tauri, combining speech recognition, AI reasoning, and developer-oriented tools.
+
+The project explores how conversational AI can become a practical interface for desktop workflows rather than remaining confined to a traditional chat window.
+
+**Core capabilities**
+- Speech-driven interaction with an AI assistant.
+- Integration of speech recognition and language models.
+- Desktop interface built with Rust and Tauri.
+- AI-assisted developer workflows.
+- Interaction with developer-oriented tools.
+
+**Engineering areas:** Voice AI · Human-AI Interaction · Desktop AI · Developer Tools
+
+**Stack:** `Rust` `Tauri` `Speech Recognition` `LLMs`
+
+[Explore Friday →](https://github.com/C-L-U/Friday)
 
 ---
 
-## 📫 Let's Connect
+### 📱 [WhatsWrong — AI-Powered Text & Voice Application](https://ww.clu.run)
 
-I'm always open to discussing back-end architecture, AI agents, blockchain infrastructure, or new opportunities.
+**AI functionality supported by a security-focused Rust backend.**
 
-[![Website](https://img.shields.io/badge/clu.run-000000?style=for-the-badge&logo=safari&logoColor=white)](https://clu.run)
-[![Twitter](https://img.shields.io/badge/@luiloalopez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luiloalopez)
+WhatsWrong combines AI text processing and voice transcription with a Flutter client and a Rust backend.
 
-*Open to back-end developer roles — remote or on-site. Let's build something that scales.* 🚀
+The application uses a server-controlled architecture in which authentication and Firestore access are handled by the backend rather than directly by the mobile application.
+
+**Core capabilities**
+- AI-powered text processing.
+- Voice transcription.
+- Backend-managed authentication.
+- Password hashing using Argon2id.
+- JWT sessions and refresh-token rotation.
+- Server-side Firestore integration.
+- Containerized backend deployment.
+
+**Engineering areas:** AI Application Development · Backend Security · Mobile Integration · API Architecture
+
+**Stack:** `Rust` `Axum` `Flutter` `Firestore` `Docker`
+
+[Explore WhatsWrong →](https://ww.clu.run)
+
+---
+
+### 🧪 Algorithmic Sect — Autonomous AI Society Simulation
+
+**Exploring emergent interactions between language-model-driven entities.**
+
+Algorithmic Sect is an experimental AI simulation featuring five autonomous fictional entities interacting within a persistent virtual society.
+
+The project investigates how multiple AI-driven characters can participate in an evolving simulated environment.
+
+**Research interests**
+- Multi-agent interaction.
+- LLM-driven character behavior.
+- Simulated societies.
+- Persistent AI environments.
+
+**Stack:** `Python` `LLMs` `Multi-Agent Systems`
+
+---
+
+<details>
+<summary><b>Additional Software Engineering Projects</b></summary>
+
+### 💬 Hefesto Messenger
+
+A real-time messaging application demonstrating full-duplex communication between a React/TypeScript frontend and a FastAPI backend using WebSockets.
+
+**Stack:** `React` `TypeScript` `FastAPI` `WebSockets`
+
+### 🕹️ Tron Game
+
+An interactive browser-based implementation of the classic light-cycle game.
+
+**Stack:** `TypeScript`
+
+</details>
+
+---
+
+## AI Engineering Expertise
+
+| Domain | Focus |
+|---|---|
+| **Multi-Agent Systems** | Agent orchestration, collaboration, debate workflows, consensus mechanisms |
+| **LLM Applications** | Model integration, prompt design, response synthesis, AI-powered applications |
+| **Voice AI** | Speech recognition, conversational interfaces, voice-first applications |
+| **AI Backend Engineering** | Python, FastAPI, Rust, Axum, asynchronous APIs |
+| **Real-Time Systems** | Server-Sent Events, WebSockets, streaming communication |
+| **Application Engineering** | TypeScript, React, Next.js, Flutter, Tauri |
+| **Data & Infrastructure** | SQL, NoSQL, Firestore, Docker, Nginx, Git |
+| **Blockchain Engineering** | Solana, Anchor, Rust smart contracts |
+
+---
+
+## Engineering Beyond AI
+
+I believe strong AI applications require strong software engineering.
+
+My experience extends beyond model integration into backend architecture, application security, real-time communication, and deployment.
+
+I work across the application lifecycle:
+
+**Architecture → Implementation → Integration → Testing → Deployment**
+
+My primary development languages are **Python, Rust, and TypeScript**.
+
+I also have experience developing full-stack applications and working with distributed teams.
+
+---
+
+## Professional Experience
+
+### Full Stack Developer — Blockchain
+**Open-source collaboration · Solana / Western Union ecosystem**
+
+*November 2025 – January 2026 · Remote*
+
+- Contributed to the development of smart contracts and an open-source international payments system involving the Solana blockchain and the Western Union ecosystem.
+- Collaborated with an international distributed engineering team.
+- Worked with Rust, Solana, and TypeScript in blockchain application development.
+
+### Full Stack Developer
+**Government of Paraguay**
+
+*August 2024 – October 2024 · Remote*
+
+- Developed frontend and backend components for an agricultural web platform serving producers.
+- Contributed to application architecture, system integrations, and server configuration.
+- Worked on production deployment using Nginx.
+- Used TypeScript, React, Node.js, and SQL.
+
+---
+
+## Education
+
+**Israel Institute of Technology**  
+Software Engineering Studies · Remote · 2024–Present
+
+**CBTIS No. 68**  
+Technical Qualification in Programming · 2021–2024
+
+### Languages
+
+- **Spanish:** Native
+- **English:** Cambridge B1 certified (2024); B2 professional-use proficiency (self-assessed)
+
+---
+
+## What I'm Looking For
+
+I'm interested in engineering opportunities involving:
+
+- **AI Engineering & LLM Applications**
+- **Multi-Agent Systems & Agentic AI**
+- **Voice AI & Conversational Interfaces**
+- **AI Infrastructure & Backend Engineering**
+- **AI Developer Tools**
+
+I'm particularly interested in teams building intelligent products, developer platforms, and systems that bring AI into real-world applications.
+
+Open to **remote engineering opportunities, international teams, and open-source collaboration**.
+
+---
+
+<div align="center">
+
+### Let's Build Something Intelligent
+
+I'm always interested in discussing AI systems, ambitious engineering projects, and opportunities to collaborate.
+
+[**Portfolio**](https://clu.run) · [**LinkedIn**](https://www.linkedin.com/in/luis-arellano-295350313) · [**GitHub**](https://github.com/C-L-U) · [**Email**](mailto:luilolopez@icloud.com)
+
+<sub>AI Engineering · Multi-Agent Systems · Voice AI · Backend Infrastructure</sub>
+
+</div>
